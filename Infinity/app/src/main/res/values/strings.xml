@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Infinity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_for_grocery">Search for grocery</string>
+    <string name="_49_vanier_drive_kitchener">49 Vanier Drive, Kitchener</string>
+    <string name="Buy_Now">Buy Now</string>
+</resources>
